@@ -1,0 +1,170 @@
+C:\Users\muert\OneDrive\Documentos\Programacion\Laboratorio\Winforms\parcial\parcial\bin\Debug\net6.0-windows\parcial.exe
+C:\Users\muert\OneDrive\Documentos\Programacion\Laboratorio\Winforms\parcial\parcial\bin\Debug\net6.0-windows\parcial.deps.json
+C:\Users\muert\OneDrive\Documentos\Programacion\Laboratorio\Winforms\parcial\parcial\bin\Debug\net6.0-windows\parcial.runtimeconfig.json
+C:\Users\muert\OneDrive\Documentos\Programacion\Laboratorio\Winforms\parcial\parcial\bin\Debug\net6.0-windows\parcial.dll
+C:\Users\muert\OneDrive\Documentos\Programacion\Laboratorio\Winforms\parcial\parcial\bin\Debug\net6.0-windows\parcial.pdb
+C:\Users\muert\OneDrive\Documentos\Programacion\Laboratorio\Winforms\parcial\parcial\obj\Debug\net6.0-windows\parcial.csproj.AssemblyReference.cache
+C:\Users\muert\OneDrive\Documentos\Programacion\Laboratorio\Winforms\parcial\parcial\obj\Debug\net6.0-windows\parcial.csproj.GenerateResource.cache
+C:\Users\muert\OneDrive\Documentos\Programacion\Laboratorio\Winforms\parcial\parcial\obj\Debug\net6.0-windows\parcial.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\muert\OneDrive\Documentos\Programacion\Laboratorio\Winforms\parcial\parcial\obj\Debug\net6.0-windows\parcial.AssemblyInfoInputs.cache
+C:\Users\muert\OneDrive\Documentos\Programacion\Laboratorio\Winforms\parcial\parcial\obj\Debug\net6.0-windows\parcial.AssemblyInfo.cs
+C:\Users\muert\OneDrive\Documentos\Programacion\Laboratorio\Winforms\parcial\parcial\obj\Debug\net6.0-windows\parcial.csproj.CoreCompileInputs.cache
+C:\Users\muert\OneDrive\Documentos\Programacion\Laboratorio\Winforms\parcial\parcial\obj\Debug\net6.0-windows\parcial.dll
+C:\Users\muert\OneDrive\Documentos\Programacion\Laboratorio\Winforms\parcial\parcial\obj\Debug\net6.0-windows\refint\parcial.dll
+C:\Users\muert\OneDrive\Documentos\Programacion\Laboratorio\Winforms\parcial\parcial\obj\Debug\net6.0-windows\parcial.pdb
+C:\Users\muert\OneDrive\Documentos\Programacion\Laboratorio\Winforms\parcial\parcial\obj\Debug\net6.0-windows\parcial.genruntimeconfig.cache
+C:\Users\muert\OneDrive\Documentos\Programacion\Laboratorio\Winforms\parcial\parcial\obj\Debug\net6.0-windows\ref\parcial.dll
+C:\Users\muert\OneDrive\Documentos\Programacion\Laboratorio\Winforms\parcial\parcial\obj\Debug\net6.0-windows\parcial.Forms1.resources
+C:\Users\muert\OneDrive\Documentos\Programacion\Laboratorio\Winforms\parcial\parcial\obj\Debug\net6.0-windows\parcial.new_employee.resources
+C:\Users\muert\OneDrive\Documentos\Programacion\Laboratorio\Winforms\parcial\parcial\obj\Debug\net6.0-windows\parcial.Home.resources
+C:\Users\muert\OneDrive\Escritorio\parcial\parcial\obj\Debug\net6.0-windows\parcial.csproj.AssemblyReference.cache
+C:\Users\muert\OneDrive\Escritorio\parcial\parcial\obj\Debug\net6.0-windows\parcial.Home.resources
+C:\Users\muert\OneDrive\Escritorio\parcial\parcial\obj\Debug\net6.0-windows\parcial.csproj.GenerateResource.cache
+C:\Users\muert\OneDrive\Escritorio\parcial\parcial\obj\Debug\net6.0-windows\parcial.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\muert\OneDrive\Escritorio\parcial\parcial\obj\Debug\net6.0-windows\parcial.AssemblyInfoInputs.cache
+C:\Users\muert\OneDrive\Escritorio\parcial\parcial\obj\Debug\net6.0-windows\parcial.AssemblyInfo.cs
+C:\Users\muert\OneDrive\Escritorio\parcial\parcial\obj\Debug\net6.0-windows\parcial.csproj.CoreCompileInputs.cache
+C:\Users\muert\OneDrive\Escritorio\parcial\parcial\obj\Debug\net6.0-windows\parcial.dll
+C:\Users\muert\OneDrive\Escritorio\parcial\parcial\obj\Debug\net6.0-windows\refint\parcial.dll
+C:\Users\muert\OneDrive\Escritorio\parcial\parcial\obj\Debug\net6.0-windows\parcial.pdb
+C:\Users\muert\OneDrive\Escritorio\parcial\parcial\bin\Debug\net6.0-windows\parcial.exe
+C:\Users\muert\OneDrive\Escritorio\parcial\parcial\bin\Debug\net6.0-windows\parcial.deps.json
+C:\Users\muert\OneDrive\Escritorio\parcial\parcial\bin\Debug\net6.0-windows\parcial.runtimeconfig.json
+C:\Users\muert\OneDrive\Escritorio\parcial\parcial\bin\Debug\net6.0-windows\parcial.dll
+C:\Users\muert\OneDrive\Escritorio\parcial\parcial\bin\Debug\net6.0-windows\parcial.pdb
+C:\Users\muert\OneDrive\Escritorio\parcial\parcial\obj\Debug\net6.0-windows\parcial.genruntimeconfig.cache
+C:\Users\muert\OneDrive\Escritorio\parcial\parcial\obj\Debug\net6.0-windows\ref\parcial.dll
+C:\Users\muert\OneDrive\Escritorio\parcial\parcial\obj\Debug\net6.0-windows\parcial.FormLogin.resources
+C:\Users\muert\OneDrive\Escritorio\parcial\parcial\obj\Debug\net6.0-windows\parcial.NewEmployee.resources
+C:\alumnos\juan pablo tucuman\parcial\parcial\bin\Debug\net6.0-windows\parcial.exe
+C:\alumnos\juan pablo tucuman\parcial\parcial\bin\Debug\net6.0-windows\parcial.deps.json
+C:\alumnos\juan pablo tucuman\parcial\parcial\bin\Debug\net6.0-windows\parcial.runtimeconfig.json
+C:\alumnos\juan pablo tucuman\parcial\parcial\bin\Debug\net6.0-windows\parcial.dll
+C:\alumnos\juan pablo tucuman\parcial\parcial\bin\Debug\net6.0-windows\parcial.pdb
+C:\alumnos\juan pablo tucuman\parcial\parcial\obj\Debug\net6.0-windows\parcial.csproj.AssemblyReference.cache
+C:\alumnos\juan pablo tucuman\parcial\parcial\obj\Debug\net6.0-windows\parcial.Home.resources
+C:\alumnos\juan pablo tucuman\parcial\parcial\obj\Debug\net6.0-windows\parcial.FormLogin.resources
+C:\alumnos\juan pablo tucuman\parcial\parcial\obj\Debug\net6.0-windows\parcial.NewEmployee.resources
+C:\alumnos\juan pablo tucuman\parcial\parcial\obj\Debug\net6.0-windows\parcial.csproj.GenerateResource.cache
+C:\alumnos\juan pablo tucuman\parcial\parcial\obj\Debug\net6.0-windows\parcial.GeneratedMSBuildEditorConfig.editorconfig
+C:\alumnos\juan pablo tucuman\parcial\parcial\obj\Debug\net6.0-windows\parcial.AssemblyInfoInputs.cache
+C:\alumnos\juan pablo tucuman\parcial\parcial\obj\Debug\net6.0-windows\parcial.AssemblyInfo.cs
+C:\alumnos\juan pablo tucuman\parcial\parcial\obj\Debug\net6.0-windows\parcial.csproj.CoreCompileInputs.cache
+C:\alumnos\juan pablo tucuman\parcial\parcial\obj\Debug\net6.0-windows\parcial.dll
+C:\alumnos\juan pablo tucuman\parcial\parcial\obj\Debug\net6.0-windows\refint\parcial.dll
+C:\alumnos\juan pablo tucuman\parcial\parcial\obj\Debug\net6.0-windows\parcial.pdb
+C:\alumnos\juan pablo tucuman\parcial\parcial\obj\Debug\net6.0-windows\parcial.genruntimeconfig.cache
+C:\alumnos\juan pablo tucuman\parcial\parcial\obj\Debug\net6.0-windows\ref\parcial.dll
+C:\Users\juanp\Downloads\Nueva carpeta (2)\parcial\bin\Debug\net6.0-windows\parcial.exe
+C:\Users\juanp\Downloads\Nueva carpeta (2)\parcial\bin\Debug\net6.0-windows\parcial.deps.json
+C:\Users\juanp\Downloads\Nueva carpeta (2)\parcial\bin\Debug\net6.0-windows\parcial.runtimeconfig.json
+C:\Users\juanp\Downloads\Nueva carpeta (2)\parcial\bin\Debug\net6.0-windows\parcial.dll
+C:\Users\juanp\Downloads\Nueva carpeta (2)\parcial\bin\Debug\net6.0-windows\parcial.pdb
+C:\Users\juanp\Downloads\Nueva carpeta (2)\parcial\obj\Debug\net6.0-windows\parcial.csproj.AssemblyReference.cache
+C:\Users\juanp\Downloads\Nueva carpeta (2)\parcial\obj\Debug\net6.0-windows\parcial.Home.resources
+C:\Users\juanp\Downloads\Nueva carpeta (2)\parcial\obj\Debug\net6.0-windows\parcial.FormLogin.resources
+C:\Users\juanp\Downloads\Nueva carpeta (2)\parcial\obj\Debug\net6.0-windows\parcial.NewEmployee.resources
+C:\Users\juanp\Downloads\Nueva carpeta (2)\parcial\obj\Debug\net6.0-windows\parcial.csproj.GenerateResource.cache
+C:\Users\juanp\Downloads\Nueva carpeta (2)\parcial\obj\Debug\net6.0-windows\parcial.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\juanp\Downloads\Nueva carpeta (2)\parcial\obj\Debug\net6.0-windows\parcial.AssemblyInfoInputs.cache
+C:\Users\juanp\Downloads\Nueva carpeta (2)\parcial\obj\Debug\net6.0-windows\parcial.AssemblyInfo.cs
+C:\Users\juanp\Downloads\Nueva carpeta (2)\parcial\obj\Debug\net6.0-windows\parcial.csproj.CoreCompileInputs.cache
+C:\Users\juanp\Downloads\Nueva carpeta (2)\parcial\obj\Debug\net6.0-windows\parcial.dll
+C:\Users\juanp\Downloads\Nueva carpeta (2)\parcial\obj\Debug\net6.0-windows\refint\parcial.dll
+C:\Users\juanp\Downloads\Nueva carpeta (2)\parcial\obj\Debug\net6.0-windows\parcial.pdb
+C:\Users\juanp\Downloads\Nueva carpeta (2)\parcial\obj\Debug\net6.0-windows\parcial.genruntimeconfig.cache
+C:\Users\juanp\Downloads\Nueva carpeta (2)\parcial\obj\Debug\net6.0-windows\ref\parcial.dll
+C:\Users\muert\OneDrive\Escritorio\Parcial Laboratorio\22-06-22\parcial\obj\Debug\net6.0-windows\parcial.csproj.AssemblyReference.cache
+C:\Users\muert\OneDrive\Escritorio\Parcial Laboratorio\22-06-22\parcial\obj\Debug\net6.0-windows\parcial.Home.resources
+C:\Users\muert\OneDrive\Escritorio\Parcial Laboratorio\22-06-22\parcial\obj\Debug\net6.0-windows\parcial.FormLogin.resources
+C:\Users\muert\OneDrive\Escritorio\Parcial Laboratorio\22-06-22\parcial\obj\Debug\net6.0-windows\parcial.NewEmployee.resources
+C:\Users\muert\OneDrive\Escritorio\Parcial Laboratorio\22-06-22\parcial\obj\Debug\net6.0-windows\parcial.csproj.GenerateResource.cache
+C:\Users\muert\OneDrive\Escritorio\Parcial Laboratorio\22-06-22\parcial\obj\Debug\net6.0-windows\parcial.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\muert\OneDrive\Escritorio\Parcial Laboratorio\22-06-22\parcial\obj\Debug\net6.0-windows\parcial.AssemblyInfoInputs.cache
+C:\Users\muert\OneDrive\Escritorio\Parcial Laboratorio\22-06-22\parcial\obj\Debug\net6.0-windows\parcial.AssemblyInfo.cs
+C:\Users\muert\OneDrive\Escritorio\Parcial Laboratorio\22-06-22\parcial\obj\Debug\net6.0-windows\parcial.csproj.CoreCompileInputs.cache
+C:\Users\muert\OneDrive\Escritorio\Parcial Laboratorio\22-06-22\parcial\obj\Debug\net6.0-windows\parcial.dll
+C:\Users\muert\OneDrive\Escritorio\Parcial Laboratorio\22-06-22\parcial\obj\Debug\net6.0-windows\refint\parcial.dll
+C:\Users\muert\OneDrive\Escritorio\Parcial Laboratorio\22-06-22\parcial\obj\Debug\net6.0-windows\parcial.pdb
+C:\Users\muert\OneDrive\Escritorio\Parcial Laboratorio\22-06-22\parcial\bin\Debug\net6.0-windows\parcial.exe
+C:\Users\muert\OneDrive\Escritorio\Parcial Laboratorio\22-06-22\parcial\bin\Debug\net6.0-windows\parcial.deps.json
+C:\Users\muert\OneDrive\Escritorio\Parcial Laboratorio\22-06-22\parcial\bin\Debug\net6.0-windows\parcial.runtimeconfig.json
+C:\Users\muert\OneDrive\Escritorio\Parcial Laboratorio\22-06-22\parcial\bin\Debug\net6.0-windows\parcial.dll
+C:\Users\muert\OneDrive\Escritorio\Parcial Laboratorio\22-06-22\parcial\bin\Debug\net6.0-windows\parcial.pdb
+C:\Users\muert\OneDrive\Escritorio\Parcial Laboratorio\22-06-22\parcial\obj\Debug\net6.0-windows\parcial.genruntimeconfig.cache
+C:\Users\muert\OneDrive\Escritorio\Parcial Laboratorio\22-06-22\parcial\obj\Debug\net6.0-windows\ref\parcial.dll
+C:\Users\juanp\Downloads\Nueva carpeta (3)\22-06-22\parcial\bin\Debug\net6.0-windows\parcial.exe
+C:\Users\juanp\Downloads\Nueva carpeta (3)\22-06-22\parcial\bin\Debug\net6.0-windows\parcial.deps.json
+C:\Users\juanp\Downloads\Nueva carpeta (3)\22-06-22\parcial\bin\Debug\net6.0-windows\parcial.runtimeconfig.json
+C:\Users\juanp\Downloads\Nueva carpeta (3)\22-06-22\parcial\bin\Debug\net6.0-windows\parcial.dll
+C:\Users\juanp\Downloads\Nueva carpeta (3)\22-06-22\parcial\bin\Debug\net6.0-windows\parcial.pdb
+C:\Users\juanp\Downloads\Nueva carpeta (3)\22-06-22\parcial\obj\Debug\net6.0-windows\parcial.csproj.AssemblyReference.cache
+C:\Users\juanp\Downloads\Nueva carpeta (3)\22-06-22\parcial\obj\Debug\net6.0-windows\parcial.Home.resources
+C:\Users\juanp\Downloads\Nueva carpeta (3)\22-06-22\parcial\obj\Debug\net6.0-windows\parcial.FormLogin.resources
+C:\Users\juanp\Downloads\Nueva carpeta (3)\22-06-22\parcial\obj\Debug\net6.0-windows\parcial.NewEmployee.resources
+C:\Users\juanp\Downloads\Nueva carpeta (3)\22-06-22\parcial\obj\Debug\net6.0-windows\parcial.csproj.GenerateResource.cache
+C:\Users\juanp\Downloads\Nueva carpeta (3)\22-06-22\parcial\obj\Debug\net6.0-windows\parcial.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\juanp\Downloads\Nueva carpeta (3)\22-06-22\parcial\obj\Debug\net6.0-windows\parcial.AssemblyInfoInputs.cache
+C:\Users\juanp\Downloads\Nueva carpeta (3)\22-06-22\parcial\obj\Debug\net6.0-windows\parcial.AssemblyInfo.cs
+C:\Users\juanp\Downloads\Nueva carpeta (3)\22-06-22\parcial\obj\Debug\net6.0-windows\parcial.csproj.CoreCompileInputs.cache
+C:\Users\juanp\Downloads\Nueva carpeta (3)\22-06-22\parcial\obj\Debug\net6.0-windows\parcial.dll
+C:\Users\juanp\Downloads\Nueva carpeta (3)\22-06-22\parcial\obj\Debug\net6.0-windows\refint\parcial.dll
+C:\Users\juanp\Downloads\Nueva carpeta (3)\22-06-22\parcial\obj\Debug\net6.0-windows\parcial.pdb
+C:\Users\juanp\Downloads\Nueva carpeta (3)\22-06-22\parcial\obj\Debug\net6.0-windows\parcial.genruntimeconfig.cache
+C:\Users\juanp\Downloads\Nueva carpeta (3)\22-06-22\parcial\obj\Debug\net6.0-windows\ref\parcial.dll
+C:\Users\juanp\Desktop\Formulario para Lab Completo\22-06-22\parcial\bin\Debug\net6.0-windows\parcial.exe
+C:\Users\juanp\Desktop\Formulario para Lab Completo\22-06-22\parcial\bin\Debug\net6.0-windows\parcial.deps.json
+C:\Users\juanp\Desktop\Formulario para Lab Completo\22-06-22\parcial\bin\Debug\net6.0-windows\parcial.runtimeconfig.json
+C:\Users\juanp\Desktop\Formulario para Lab Completo\22-06-22\parcial\bin\Debug\net6.0-windows\parcial.dll
+C:\Users\juanp\Desktop\Formulario para Lab Completo\22-06-22\parcial\bin\Debug\net6.0-windows\parcial.pdb
+C:\Users\juanp\Desktop\Formulario para Lab Completo\22-06-22\parcial\obj\Debug\net6.0-windows\parcial.csproj.AssemblyReference.cache
+C:\Users\juanp\Desktop\Formulario para Lab Completo\22-06-22\parcial\obj\Debug\net6.0-windows\parcial.Home.resources
+C:\Users\juanp\Desktop\Formulario para Lab Completo\22-06-22\parcial\obj\Debug\net6.0-windows\parcial.FormLogin.resources
+C:\Users\juanp\Desktop\Formulario para Lab Completo\22-06-22\parcial\obj\Debug\net6.0-windows\parcial.NewEmployee.resources
+C:\Users\juanp\Desktop\Formulario para Lab Completo\22-06-22\parcial\obj\Debug\net6.0-windows\parcial.csproj.GenerateResource.cache
+C:\Users\juanp\Desktop\Formulario para Lab Completo\22-06-22\parcial\obj\Debug\net6.0-windows\parcial.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\juanp\Desktop\Formulario para Lab Completo\22-06-22\parcial\obj\Debug\net6.0-windows\parcial.AssemblyInfoInputs.cache
+C:\Users\juanp\Desktop\Formulario para Lab Completo\22-06-22\parcial\obj\Debug\net6.0-windows\parcial.AssemblyInfo.cs
+C:\Users\juanp\Desktop\Formulario para Lab Completo\22-06-22\parcial\obj\Debug\net6.0-windows\parcial.csproj.CoreCompileInputs.cache
+C:\Users\juanp\Desktop\Formulario para Lab Completo\22-06-22\parcial\obj\Debug\net6.0-windows\parcial.dll
+C:\Users\juanp\Desktop\Formulario para Lab Completo\22-06-22\parcial\obj\Debug\net6.0-windows\refint\parcial.dll
+C:\Users\juanp\Desktop\Formulario para Lab Completo\22-06-22\parcial\obj\Debug\net6.0-windows\parcial.pdb
+C:\Users\juanp\Desktop\Formulario para Lab Completo\22-06-22\parcial\obj\Debug\net6.0-windows\parcial.genruntimeconfig.cache
+C:\Users\juanp\Desktop\Formulario para Lab Completo\22-06-22\parcial\obj\Debug\net6.0-windows\ref\parcial.dll
+G:\Otros ordenadores\PcGamer\Documents\UTN\1° año\1°Cuatrimestre\Trabajo lab 1°cuatri\Formulario para Lab Completo\22-06-22\parcial\bin\Debug\net6.0-windows\parcial.exe
+G:\Otros ordenadores\PcGamer\Documents\UTN\1° año\1°Cuatrimestre\Trabajo lab 1°cuatri\Formulario para Lab Completo\22-06-22\parcial\bin\Debug\net6.0-windows\parcial.deps.json
+G:\Otros ordenadores\PcGamer\Documents\UTN\1° año\1°Cuatrimestre\Trabajo lab 1°cuatri\Formulario para Lab Completo\22-06-22\parcial\bin\Debug\net6.0-windows\parcial.runtimeconfig.json
+G:\Otros ordenadores\PcGamer\Documents\UTN\1° año\1°Cuatrimestre\Trabajo lab 1°cuatri\Formulario para Lab Completo\22-06-22\parcial\bin\Debug\net6.0-windows\parcial.dll
+G:\Otros ordenadores\PcGamer\Documents\UTN\1° año\1°Cuatrimestre\Trabajo lab 1°cuatri\Formulario para Lab Completo\22-06-22\parcial\bin\Debug\net6.0-windows\parcial.pdb
+G:\Otros ordenadores\PcGamer\Documents\UTN\1° año\1°Cuatrimestre\Trabajo lab 1°cuatri\Formulario para Lab Completo\22-06-22\parcial\obj\Debug\net6.0-windows\parcial.csproj.AssemblyReference.cache
+G:\Otros ordenadores\PcGamer\Documents\UTN\1° año\1°Cuatrimestre\Trabajo lab 1°cuatri\Formulario para Lab Completo\22-06-22\parcial\obj\Debug\net6.0-windows\parcial.Home.resources
+G:\Otros ordenadores\PcGamer\Documents\UTN\1° año\1°Cuatrimestre\Trabajo lab 1°cuatri\Formulario para Lab Completo\22-06-22\parcial\obj\Debug\net6.0-windows\parcial.FormLogin.resources
+G:\Otros ordenadores\PcGamer\Documents\UTN\1° año\1°Cuatrimestre\Trabajo lab 1°cuatri\Formulario para Lab Completo\22-06-22\parcial\obj\Debug\net6.0-windows\parcial.NewEmployee.resources
+G:\Otros ordenadores\PcGamer\Documents\UTN\1° año\1°Cuatrimestre\Trabajo lab 1°cuatri\Formulario para Lab Completo\22-06-22\parcial\obj\Debug\net6.0-windows\parcial.csproj.GenerateResource.cache
+G:\Otros ordenadores\PcGamer\Documents\UTN\1° año\1°Cuatrimestre\Trabajo lab 1°cuatri\Formulario para Lab Completo\22-06-22\parcial\obj\Debug\net6.0-windows\parcial.GeneratedMSBuildEditorConfig.editorconfig
+G:\Otros ordenadores\PcGamer\Documents\UTN\1° año\1°Cuatrimestre\Trabajo lab 1°cuatri\Formulario para Lab Completo\22-06-22\parcial\obj\Debug\net6.0-windows\parcial.AssemblyInfoInputs.cache
+G:\Otros ordenadores\PcGamer\Documents\UTN\1° año\1°Cuatrimestre\Trabajo lab 1°cuatri\Formulario para Lab Completo\22-06-22\parcial\obj\Debug\net6.0-windows\parcial.AssemblyInfo.cs
+G:\Otros ordenadores\PcGamer\Documents\UTN\1° año\1°Cuatrimestre\Trabajo lab 1°cuatri\Formulario para Lab Completo\22-06-22\parcial\obj\Debug\net6.0-windows\parcial.csproj.CoreCompileInputs.cache
+G:\Otros ordenadores\PcGamer\Documents\UTN\1° año\1°Cuatrimestre\Trabajo lab 1°cuatri\Formulario para Lab Completo\22-06-22\parcial\obj\Debug\net6.0-windows\parcial.dll
+G:\Otros ordenadores\PcGamer\Documents\UTN\1° año\1°Cuatrimestre\Trabajo lab 1°cuatri\Formulario para Lab Completo\22-06-22\parcial\obj\Debug\net6.0-windows\refint\parcial.dll
+G:\Otros ordenadores\PcGamer\Documents\UTN\1° año\1°Cuatrimestre\Trabajo lab 1°cuatri\Formulario para Lab Completo\22-06-22\parcial\obj\Debug\net6.0-windows\parcial.pdb
+G:\Otros ordenadores\PcGamer\Documents\UTN\1° año\1°Cuatrimestre\Trabajo lab 1°cuatri\Formulario para Lab Completo\22-06-22\parcial\obj\Debug\net6.0-windows\parcial.genruntimeconfig.cache
+G:\Otros ordenadores\PcGamer\Documents\UTN\1° año\1°Cuatrimestre\Trabajo lab 1°cuatri\Formulario para Lab Completo\22-06-22\parcial\obj\Debug\net6.0-windows\ref\parcial.dll
+C:\Users\juanp\OneDrive\Escritorio\Final Prog-Lab\CV\Repositorios\C#\Formulario para Lab Completo\parcial\bin\Debug\net6.0-windows\parcial.exe
+C:\Users\juanp\OneDrive\Escritorio\Final Prog-Lab\CV\Repositorios\C#\Formulario para Lab Completo\parcial\bin\Debug\net6.0-windows\parcial.deps.json
+C:\Users\juanp\OneDrive\Escritorio\Final Prog-Lab\CV\Repositorios\C#\Formulario para Lab Completo\parcial\bin\Debug\net6.0-windows\parcial.runtimeconfig.json
+C:\Users\juanp\OneDrive\Escritorio\Final Prog-Lab\CV\Repositorios\C#\Formulario para Lab Completo\parcial\bin\Debug\net6.0-windows\parcial.dll
+C:\Users\juanp\OneDrive\Escritorio\Final Prog-Lab\CV\Repositorios\C#\Formulario para Lab Completo\parcial\bin\Debug\net6.0-windows\parcial.pdb
+C:\Users\juanp\OneDrive\Escritorio\Final Prog-Lab\CV\Repositorios\C#\Formulario para Lab Completo\parcial\obj\Debug\net6.0-windows\parcial.Home.resources
+C:\Users\juanp\OneDrive\Escritorio\Final Prog-Lab\CV\Repositorios\C#\Formulario para Lab Completo\parcial\obj\Debug\net6.0-windows\parcial.FormLogin.resources
+C:\Users\juanp\OneDrive\Escritorio\Final Prog-Lab\CV\Repositorios\C#\Formulario para Lab Completo\parcial\obj\Debug\net6.0-windows\parcial.NewEmployee.resources
+C:\Users\juanp\OneDrive\Escritorio\Final Prog-Lab\CV\Repositorios\C#\Formulario para Lab Completo\parcial\obj\Debug\net6.0-windows\parcial.csproj.GenerateResource.cache
+C:\Users\juanp\OneDrive\Escritorio\Final Prog-Lab\CV\Repositorios\C#\Formulario para Lab Completo\parcial\obj\Debug\net6.0-windows\parcial.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\juanp\OneDrive\Escritorio\Final Prog-Lab\CV\Repositorios\C#\Formulario para Lab Completo\parcial\obj\Debug\net6.0-windows\parcial.AssemblyInfoInputs.cache
+C:\Users\juanp\OneDrive\Escritorio\Final Prog-Lab\CV\Repositorios\C#\Formulario para Lab Completo\parcial\obj\Debug\net6.0-windows\parcial.AssemblyInfo.cs
+C:\Users\juanp\OneDrive\Escritorio\Final Prog-Lab\CV\Repositorios\C#\Formulario para Lab Completo\parcial\obj\Debug\net6.0-windows\parcial.csproj.CoreCompileInputs.cache
+C:\Users\juanp\OneDrive\Escritorio\Final Prog-Lab\CV\Repositorios\C#\Formulario para Lab Completo\parcial\obj\Debug\net6.0-windows\parcial.dll
+C:\Users\juanp\OneDrive\Escritorio\Final Prog-Lab\CV\Repositorios\C#\Formulario para Lab Completo\parcial\obj\Debug\net6.0-windows\refint\parcial.dll
+C:\Users\juanp\OneDrive\Escritorio\Final Prog-Lab\CV\Repositorios\C#\Formulario para Lab Completo\parcial\obj\Debug\net6.0-windows\parcial.pdb
+C:\Users\juanp\OneDrive\Escritorio\Final Prog-Lab\CV\Repositorios\C#\Formulario para Lab Completo\parcial\obj\Debug\net6.0-windows\parcial.genruntimeconfig.cache
+C:\Users\juanp\OneDrive\Escritorio\Final Prog-Lab\CV\Repositorios\C#\Formulario para Lab Completo\parcial\obj\Debug\net6.0-windows\ref\parcial.dll
